@@ -1,0 +1,304 @@
+Raider	Acc.Lv	status	death?	STM?	LvS/ETM	LvEND	#surv/S	#surv/E	wish	lv4surv	STM%+	Raider%+
+
+2023.6.8
+Frieza	13	died	HP	yes	-	2	-	6	surv	on	?	?
+Vegeta	34	died	HP	yes	-	3	-	4	surv	off	?	?
+Frieza	50	lived	-	yes	-	4	-	4	-	-	?	?
+Frieza	5	died	STM	yes	-	4	-	6	surv	off	?	?
+Cell	18	died	HP	yes	-	3	-	7	-	-	?	?
+Vegeta	54	lived	-	yes	-	4	-	0	-	-	?	?
+Vegeta	14	died	HP	yes	-	3	-	6	surv	on	?	?
+Buu	15	lived	-	yes	-	3	-	0	surv	off	?	?
+Cell	15	died	HP	yes	-	3	-	7	surv	on	?	?
+
+===GINYU RELEASE BALANCE PATCH (NERF)
+
+2023.6.9
+Cell	24	died	HP	yes	-	3	-	7	surv	on	?	?
+Ginyu	1	lived	-	yes	-	4	-	0	raider	on	?	?
+Ginyu	1	lived	-	yes	-	4	-	1	surv	off	?	?
+Ginyu	4	died	HP	yes	-	4	-	4	surv	on	?	?
+Vegeta	24	lived	-	no	-	3	-	0	-	-	?	?
+	
+2023.6.10
+Ginyu	6	died	HP	yes	-	4	-	4	surv	off	?	?
+Ginyu	16	lived	-	yes	2	4	6	0	-	-	?	?
+Ginyu	8	lived	-	yes	3	4	5	0	-	-	?	?
+Ginyu	8	lived	-	yes	3	4	7	0	-	-	?	?
+Ginyu	11	lived	-	yes	3	4	6	0	-	-	?	?
+Frieza	49	died	HP	yes	1	3	7	7	surv	on	?	?
+Frieza	94	lived	-	no	-	3	-	2	-	-	?	?
+Vegeta	6	died	HP	yes	2	3	7	7	surv	on	?	?
+Vegeta	34	lived	-	yes	3	4	5	0	surv	off	?	?
+Ginyu	7	died	HP	yes	2	4	7	6	surv	on	?	?
+
+2023.6.14
+Ginyu	6	died	STM	yes	2	4	7	7	-	-	?	?
+Frieza	55	died	HP	yes	2	3	7	7	-	-	?	?
+Ginyu	43	lived	-	yes	2	3	5	0	-	-	?	?
+Cell	40	lived	-	no	-	4	-	3	-	-	?	?
+Ginyu	72	lived	-	no	-	3	-	3	-	-	?	?
+Ginyu	3	lived	-	no	-	4	-	3	-	-	?	?
+Buu	35	died	STM	yes	3	3	7	5	-	-	?	?
+Frieza	12	died	STM	yes	2	3	7	7	-	-	?	?
+Frieza	37	died	STM	yes	3	4	6	5	-	-	?	?
+Frieza	16	lived	-	yes	3	4	4	0	-	-	?	?
+Ginyu	39	lived	-	yes	4	4	4	1	-	-	?	?
+Frieza	97	lived	-	yes	3	3	4	1	-	-	?	?
+
+2023.6.16
+Buu	9	died	HP	no	-	1	-	7	-	-	?	?
+Vegeta	57	died	HP	yes	3	3	7	5	surv	on	?	?
+Frieza	1	died	HP	yes	3	3	7	7	surv	on	?	?
+Cell	1	died	HP	yes	-	3	-	6	surv	on	?	?
+
+2023.6.18
+Buu	55	died	STM	yes	2	2	7	5	-	-	?	?
+Vegeta	16	died	HP	yes	2	3	7	7	surv	on	?	?
+Frieza	18	died	HP	yes	2	3	7	7	surv	on	?	?
+Ginyu	32	lived	-	yes	3	4	5	0	surv	off	?	?
+Ginyu	37	lived	-	yes	4	4	5	0	-	-	?	?
+Cell	20	died	HP	yes	3	3	6	6	-	-	?	?
+Frieza	72	lived	-	yes	4	4	4	0	-	-	?	?
+Frieza	73	lived	-	yes	3	4	4	0	-	-	?	?
+Ginyu	10	died	STM	yes	3	4	5	2	surv	off	?	?
+Ginyu	32	lived	-	yes	3	4	5	0	surv	off	?	?
+Ginyu	22	lived	-	yes	3	4	4	0	surv	off	?	?
+Ginyu	12	died	STM	yes	2	4	7	7	surv	off	?	?
+
+2023.6.19
+Cell	1	died	HP	yes	2	2	7	7	surv	on	?	?
+Frieza	69	lived	-	yes	3	4	6	0	-	-	?	?
+
+2023.6.21
+Cell	28	lived	-	yes	3	3	5	3	-	-	?	?
+Buu	22	died	HP	yes	2	2	7	7	-	-	?	?
+Ginyu	83	lived	-	yes	2	4	7	0	-	-	?	?
+Frieza	5	died	HP	yes	2	3	7	7	surv	on	?	?
+Ginyu	26	lived	-	yes	3	4	6	0	-	-	?	?
+Frieza	79	lived	-	yes	3	4	5	1	-	-	?	?
+Vegeta	10	died	HP	yes	2	3	5	5	surv	on	?	?
+Ginyu	47	lived	-	yes	3	4	4	0	-	-	?	?
+
+2023.6.22
+Ginyu	34	lived	-	yes	3	4	6	0	-	-	?	?
+Ginyu	34	lived	-	yes	4	4	4	0	-	-	25	20
+Ginyu	85	lived	-	yes	3	4	4	0	-	-	25	100
+Frieza	63	lived	-	no	-	3	-	2	-	-	-	100
+Frieza	73	died	STM	yes	3	3	7	2	surv	-	100	20
+Ginyu	21	lived	-	yes	3	4	5	1	-	-	50	70
+Ginyu	36	lived	-	yes	3	4	5	0	-	-	50	90
+Ginyu	5	died	STM	yes	3	4	6	2	surv	on	100	90
+Frieza	35	died	HP	broken	3	4	7	6	surv	on	75	0
+Vegeta	1	lived	-	broken	2	4	6	2	surv	off	75	20
+Ginyu	24	lived	-	broken	3	4	6	1	-	-	25	60
+Vegeta	21	died	HP	yes	2	3	7	7	surv	on	50	0
+Frieza	56	lived	-	broken	3	3	6	0	raider	on	75	100
+
+2023.6.23
+Cell	7	lived	-	yes	3	4	6	0	-	-	75	40
+Cell	10	died	HP	yes	2	2	6	6	surv	on	50	0
+Ginyu	18	died	STM	yes	2	4	6	5	surv	on	75	60
+Buu	85	lived	-	no	-	3	-	0	raider	on	-	100
+Frieza	8	lived	-	broken	4	4	4	0	-	-	75	100
+
+2023.6.24
+Ginyu	5	lived	-	broken	3	3	4	3	-	-	25	100
+Ginyu	27	lived	-	broken	2	3	6	6	-	-	50	100
+Ginyu	23	lived	-	broken	3	3	5	3	-	-	25	100
+Frieza	58	lived 	-	no	3	3	5	0	-	-	-	100
+Buu	57	lived	-	yes	2	3	5	2	-	-	50	100
+Vegeta	37	lived	-	no	-	3	-	2	-	-	-	100
+Cell	45	lived	-	broken	3	3	7	0	surv	off	75	20
+Ginyu	38	lived	-	broken	3	4	4	0	-	-	25	100
+Frieza	87	died	STM	yes	3	4	7	5	surv	off	100	40
+Ginyu	83	lived	-	yes	3	4	4	0	surv	off	50	80
+Buu	58	lived	-	broken	2	2	7	3	-	-	75	70
+Ginyu	7	lived	-	yes	2	3	7	0	-	-	75	10
+Ginyu	30	died	STM	yes	2	3	7	7	-	-	100	20
+Cell	20	died	STM	yes	3	3	6	2	-	-	100	90
+Cell	50	lived	-	yes	4	4	3	3	-	-	0	100
+Ginyu	2	lived	-	broken	4	4	3	1	surv	on	25	70
+
+2023.6.25
+Buu	60	lived	-	broken	3	3	4	0	-	-	25	100
+Ginyu	16	lived	-	broken	3	4	4	3	-	-	25	100
+Frieza	75	lived	-	yes	3	4	4	0	-	-	50	90
+Ginyu	37	lived	-	no	-	4	-	0	-	-	-	100
+Ginyu	23	lived	-	yes	2	3	7	6	surv	on	100	30
+Vegeta	98	died	HP	yes	2	3	6	4	surv	on	75	0
+Ginyu	28	lived	-	yes	3	4	6	0	surv	off	25	100
+Ginyu	15	lived	-	broken	3	4	6	0	surv	off	50	90
+Buu	29	died	HP	yes	2	2	7	7	surv	on	75	0
+Ginyu	6	lived	-	yes	3	4	4	0	surv	off	75	80
+Vegeta	1	lived	-	broken	3	4	5	0	surv	off	25	60
+
+2023.6.26
+Buu	46	lived	-	yes	2	3	6	0	-	-	75	80
+Frieza	88	lived	-	broken	3	4	5	0	-	-	75	90
+Ginyu	2	died	STM	yes	3	4	7	2	surv	off	100	100
+Buu	65	lived	-	yes	3	3	5	0	-	-	25	100
+Ginyu	17	lived	-	broken	3	4	5	1	-	-	75	100
+Ginyu	22	died	STM	yes	3	4	7	5	-	-	100	100
+Vegeta	17	lived	-	yes	3	4	2	1	surv	off	75	10
+Ginyu	73	lived	-	yes	4	4	3	2	-	-	0	100
+Ginyu	39	lived	-	broken	2	4	7	0	-	-	75	100
+
+2023.6.27
+Buu	53	died	HP	no	1	1	7	7	-	-	-	0
+Cell	98	lived	-	broken	3	4	6	1	-	-	75	100
+Ginyu	22	lived	-	broken	3	4	6	0	-	-	75	80
+Buu	67	lived	-	broken	3	3	6	0	surv	off	75	90
+Frieza	58	lived	-	broken	2	3	6	0	-	-	75	80
+Ginyu	43	lived	-	no	-	4	-	0	-	-	-	100
+Cell	80	died	HP	yes	3	3	7	5	surv	on	50	0
+Cell	25	died	HP	yes	3	3	6	5	surv	on	75	0
+Vegeta	57	lived	-	broken	3	4	4	0	-	-	50	60
+Frieza	29	died	HP	yes	3	3	7	7	surv	on	75	0
+Ginyu	58	lived	-	yes	3	4	6	0	-	-	50	100
+Vegeta	58	lived	-	broken	3	4	5	1	surv	off	75	70
+Ginyu	85	lived	-	no	-	4	-	1	raider	on	-	100
+Frieza	67	lived	-	broken	3	4	5	0	-	-	75	100
+Ginyu	26	lived	-	broken	3	4	4	0	-	-	0	100
+
+2023.6.29
+Ginyu	82	lived	-	broken	4	4	5	0	-	-	25	100
+Vegeta	1	died	HP	yes	2	3	6	6	surv	on	75	0
+Ginyu	49	died	STM	yes	2	3	7	7	surv	off	100	20
+Cell	100	died	STM	yes	3	3	7	2	-	-	100	10
+Frieza	21	lived	-	yes	2	3	4	0	surv	off	75	30
+
+===RADAR TRANSPHERE RELEASE
+
+2023.7.1
+Ginyu	4	died	HP	yes	2	4	7	6	surv	on	75	0
+Ginyu	24	lived	-	broken	2	3	7	2	-	-	50	100
+Cell	14	died	STM	yes	3	3	7	7	surv	on	100	20
+Ginyu	71	lived	-	broken	2	3	7	5	surv	off	25	40
+Vegeta	45	died	HP	yes	2	3	4	4	-	-	75	0
+Ginyu	55	lived	-	broken	3	4	5	1	-	-	50	100
+Vegeta	61	lived	-	broken	3	4	5	0	-	-	50	100
+Frieza	5	died	HP	yes	2	3	7	7	surv	on	25	0
+
+2023.7.3
+Vegeta	55	lived	-	broken	3	4	5	0	surv	off	75	10
+Frieza	57	lived	-	broken	3	3	7	2	-	-	50	80
+Buu	54	died	HP	yes	1	2	7	7	surv	off	75	0
+Frieza	85	died	STM	yes	1	2	6	5	surv	on	100	40
+Cell	6	died	HP	yes	2	2	7	6	-	-	25	0
+
+2023.7.4
+Buu	6	died	HP	no	1	1	7	7	-	-	-	0
+Ginyu	52	died	STM	yes	3	4	7	6	-	-	100	100
+Buu	56	lived	-	broken	3	4	7	3	raider	on	50	100
+Ginyu	1	lived	-	broken	3	3	7	2	surv	off	0	100
+Buu	92	lived	-	yes	3	3	6	0	surv	on	75	50
+
+2023.7.6
+Buu	17	lived	-	yes	4	4	5	0	surv	off	50	100
+Ginyu	4	died	STM	yes	3	4	5	2	-	-	100	100
+Ginyu	60	lived	-	yes	4	4	3	0	surv	off	25	100
+Cell	67	lived	-	broken	3	4	5	0	surv	off	50	60
+Ginyu	14	lived	-	yes	4	4	3	2	-	-	0	100
+
+2023.7.7
+Ginyu	100	lived	-	broken	4	4	6	2	-	-	50	100
+Cell	23	died	HP	yes	3	3	6	6	surv	on	0	0
+Frieza	36	lived	-	broken	3	4	6	0	-	-	25	100
+Ginyu	45	lived	-	yes	3	4	6	0	-	-	75	100
+Ginyu	89	lived	-	broken	3	4	5	0	-	-	50	100
+Frieza	1	died	HP	yes	1	3	6	6	surv	on	75	0
+Frieza	100	died	HP	yes	2	3	7	7	surv	on	75	0
+Cell	93	lived	-	broken	3	4	5	0	-	-	25	90
+Frieza	27	lived	-	broken	2	3	7	5	surv	on	50	20
+
+2023.7.8
+Ginyu	2	lived	-	yes	4	4	5	0	-	-	50	60
+Cell	33	died	HP	yes	2	2	7	7	surv	on	50	0
+Cell	2	lived	-	no	-	4	-	1	-	-	-	100
+
+2023.7.9
+Ginyu	29	lived	-	broken	3	4	4	1	-	-	25	100
+
+2023.7.10
+Ginyu	57	lived	-	broken	3	4	4	0	-	-	50	100
+Ginyu	93	lived	-	broken	2	2	7	2	raider	on	25	20
+Cell	6	lived	-	yes	4	4	3	2	-	-	0	100
+Ginyu	5	lived	-	broken	4	4	4	0	surv	off	50	50
+
+2023.7.11
+Frieza	94	lived	-	yes	3	4	4	0	-	-	50	90
+Frieza	85	lived	-	no	-	4	-	0	-	-	-	100
+Ginyu	56	lived	-	broken	4	4	4	1	raider	on	50	90
+Ginyu	58	died	STM	yes	2	3	7	7	surv	on	100	30
+
+2023.7.12
+Frieza	85	lived	-	yes	3	4	4	0	-	-	50	80
+Ginyu	67	died	STM	yes	2	4	5	1	surv	off	100	20
+
+2023.7.14
+Ginyu	66	lived	-	yes	3	4	5	0	surv	off	50	80
+Ginyu	89	lived	-	broken	2	4	6	0	-	-	75	80
+Cell	46	died	HP	yes	2	2	7	7	surv	on	75	0
+Ginyu	11	died	STM	yes	2	4	7	7	surv	on	100	80
+Frieza	45	died	STM	yes	2	3	7	5	surv	on	100	40
+Buu	17	died	HP	yes	2	2	6	5	surv	on	25	0
+Cell	99	lived	-	broken	4	4	5	3	-	-	50	80
+
+2023.7.17
+Cell	5	died	HP	yes	2	2	7	5	-	-	75	0
+Cell	19	died	STM	yes	2	2	7	7	surv	on	100	10
+Ginyu	25	lived	-	broken	2	4	7	3	surv	off	75	60
+
+2023.7.21
+Ginyu	62	died	STM	yes	3	3	7	6	surv	on	100	10
+Ginyu	94	lived	-	no	-	4	-	1	-	-	-	100
+Ginyu	78	died	HP	yes	2	4	7	5	surv	on	75	0
+Ginyu	55	lived	-	broken	4	4	5	0	surv	off	75	60
+Ginyu	2	lived	-	broken	4	4	4	0	raider	on	75	80
+
+2023.7.23
+Vegeta	11	died	HP	yes	2	3	7	6	surv	on	75	0
+Ginyu	35	lived	-	yes	3	4	5	0	raider	on	0	100
+Buu	1	died	HP	no	-	1	-	7	-	-	-	0
+Cell	34	died	HP	yes	2	3	5	5	surv	off	50	0
+
+===VILLAIN TRANSPHERE RELEASE
+
+2023.7.29
+Cell	72	lived	-	broken	4	4	5	1	-	-	25	90
+Ginyu	16	lived	-	broken	4	4	6	0	-	-	75	100
+Ginyu	32	lived	-	no	-	4	-	2	-	-	-	100
+Buu	95	lived	-	broken	3	3	6	4	-	-	50	100
+Ginyu	17	lived	-	broken	3	4	5	1	-	-	75	100
+Vegeta	91	lived	-	no	3	3	5	0	surv	off	25	100
+Ginyu	41	lived	-	no	4	4	5	0	-	-	25	100
+Vegeta	53	died	STM	yes	3	3	7	7	surv	on	100	60
+Frieza	65	lived	-	broken	3	4	5	0	-	-	50	100
+Buu	19	died	HP	yes	3	3	7	6	surv	on	75	0
+Buu	3	lived	-	broken	3	3	3	0	-	-	75	100
+Ginyu	46	died	STM	yes	2	4	7	7	surv	off	100	100
+Ginyu	79	lived	-	broken	3	4	5	1	-	-	75	100
+Cell	6	lived	-	broken	3	4	5	2	-	-	50	100
+Vegeta	66	lived	-	broken	2	3	7	3	surv	on	25	80
+Ginyu	51	died	STM	yes	2	4	7	4	surv	on	100	10
+Cell	28	lived	-	yes	4	4	3	2	-	-	0	100
+Ginyu	12	lived	-	broken	2	4	5	3	surv	off	75	80
+Frieza	7	died	HP	yes	1	2	7	7	surv	on	0	0
+Ginyu	17	died	HP	yes	3	4	7	5	surv	on	50	0
+Ginyu	84	lived	-	broken	3	4	4	0	surv	off	0	100
+Ginyu	55	lived	-	yes	3	4	6	0	-	-	75	60
+
+2023.8.9
+Buu	23	died	HP	yes	2	2	7	7	surv	off	75	0
+Cell	34	lived	-	broken	3	4	6	2	-	-	75	100
+Vegeta	36	lived	-	broken	3	4	5	0	surv	off	75	20
+Cell	24	died	HP	no	-	2	-	7	surv	on	-	0
+Ginyu	12	lived	-	yes	4	4	2	0	-	-	0	100
+Frieza	47	died	HP	no	-	3	-	7	surv	on	-	0
+Frieza	46	lived	-	broken	3	3	5	0	raider	on	75	100
+Buu	58	died	HP	yes	3	3	7	7	surv	on	25	0
+Buu	78	lived	-	broken	2	2	7	6	surv	off	75	40
+
+END
+Raider	Acc.Lv	status	death?	STM?	LvS/ETM	LvEND	#surv/S	#surv/E	wish	lv4surv	STM%+	Raider%+
